@@ -31,6 +31,8 @@ DisplayLinkedList o/p : https://github.com/user-attachments/assets/b09cbd6a-ee6d
 output 1j
 SwapElementsDemo o/p : https://github.com/user-attachments/assets/cdac5651-aebf-42cd-8ad1-ec01b1e89c7a
 
+output 2a 
+StringOperationsDemo o/p : https://github.com/user-attachments/assets/10d568d3-01d3-4171-802b-c376e8ef45ac
 
 
 
