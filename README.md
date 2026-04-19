@@ -13,5 +13,7 @@ ColorSortDemo o/p : https://github.com/user-attachments/assets/10453d0c-3e1b-4ae
 output 1d
 ColorSubListDemo o/p : https://github.com/user-attachments/assets/261fd6c3-948d-4b6d-8100-5ab7627e68ab
 
+output 1e
+RemoveNthElement o/p : https://github.com/user-attachments/assets/7548b806-1c65-41e1-9361-f0e637d3bd5d
 
 
