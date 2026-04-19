@@ -46,6 +46,25 @@ StringHandlingDemo o/p : https://github.com/user-attachments/assets/a5844285-88a
 output 3a1
 StringHandlingDemo o/p : https://github.com/user-attachments/assets/6595ae2f-7424-4f0d-a702-16c533ece500
 
+output 3b1
+StringBuildingFunctions1 o/p : https://github.com/user-attachments/assets/2f790261-17a4-4151-868e-763d37b9ba4e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 output 4a
 SwingExample o/p : https://github.com/user-attachments/assets/642b7db8-16cb-4e41-aaad-2dce19a5b01c
 
