@@ -4,3 +4,7 @@ ListInterfaceDemo o/p : https://github.com/user-attachments/assets/f9a0a3da-4d0b
 output 1a
 ColorSearch o/p : https://github.com/user-attachments/assets/f712018a-6f91-4226-a2b7-fc4ae0c02442
 
+output 1b
+ColorRemoveDemo o/p : https://github.com/user-attachments/assets/f6eca49c-fc8e-484a-a0c7-de76894cf1fa
+
+
