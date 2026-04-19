@@ -34,5 +34,7 @@ SwapElementsDemo o/p : https://github.com/user-attachments/assets/cdac5651-aebf-
 output 2a 
 StringOperationsDemo o/p : https://github.com/user-attachments/assets/10d568d3-01d3-4171-802b-c376e8ef45ac
 
+output 2a1
+StringOperationsDemo o/p : https://github.com/user-attachments/assets/ee3639b0-fd2c-4844-95a0-60c78e0ad3d7
 
 
