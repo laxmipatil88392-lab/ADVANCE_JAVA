@@ -7,4 +7,7 @@ ColorSearch o/p : https://github.com/user-attachments/assets/f712018a-6f91-4226-
 output 1b
 ColorRemoveDemo o/p : https://github.com/user-attachments/assets/f6eca49c-fc8e-484a-a0c7-de76894cf1fa
 
+output 1c
+ColorSortDemo o/p : https://github.com/user-attachments/assets/10453d0c-3e1b-4ae9-85b9-3698ed33dd3d
+
 
