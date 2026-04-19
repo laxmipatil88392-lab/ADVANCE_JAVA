@@ -10,4 +10,8 @@ ColorRemoveDemo o/p : https://github.com/user-attachments/assets/f6eca49c-fc8e-4
 output 1c
 ColorSortDemo o/p : https://github.com/user-attachments/assets/10453d0c-3e1b-4ae9-85b9-3698ed33dd3d
 
+output 1d
+ColorSubListDemo o/p : https://github.com/user-attachments/assets/261fd6c3-948d-4b6d-8100-5ab7627e68ab
+
+
 
