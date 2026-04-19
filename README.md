@@ -64,6 +64,8 @@ TabbedPaneExample o/p : https://github.com/user-attachments/assets/0b958b62-33f2
 output 5c
 JListCapitalExample o/p : https://github.com/user-attachments/assets/fb40f344-de7e-477c-a943-9ae77210eac3
 
+output 5d
+TabbedPaneColorExample  o/p : https://github.com/user-attachments/assets/bb3cc7e4-7ce0-49b1-9938-4f6c9fb46718
 
 
 
