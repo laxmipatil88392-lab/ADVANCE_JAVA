@@ -61,6 +61,8 @@ StringBuildingFunctions4 o/p : https://github.com/user-attachments/assets/2930f9
 output 3b5
 StringBuildingFunctions5 o/p : https://github.com/user-attachments/assets/8ef1310b-a2e6-4aff-b5cd-008453671a03
 
+output 3c6
+StringBuildingFunctions6 o/p : https://github.com/user-attachments/assets/207c24f7-ef37-4186-8798-688c070d4037
 
 
 
