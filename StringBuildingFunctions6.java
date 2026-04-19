@@ -1,0 +1,25 @@
+package stringfunction;
+
+public class StringBuildingFunctions6 {
+		// 6. Function to capitalize the first letter of each word
+		public static String capitalizeWords(String str) {
+		if (str == null || str.isEmpty()) {
+		return str;
+		}
+		StringBuilder result = new StringBuilder();
+		String[] words = str.split("\\s+");
+		for (String word : words) {
+		if (!word.isEmpty()) {
+		result.append(Character.toUpperCase(word.charAt(0)))
+		.append(word.substring(1).toLowerCase())
+		.append(" ");
+		}
+		}
+		return result.toString().trim();
+		}
+
+		public static void main(String[] args) {
+		System.out.println("6. Capitalize Words: " + capitalizeWords("hello world"));
+		}
+		}
+
