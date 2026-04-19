@@ -40,3 +40,5 @@ StringOperationsDemo o/p : https://github.com/user-attachments/assets/ee3639b0-f
 output 2b
 PerformanceTest o/p : https://github.com/user-attachments/assets/c930e18d-c6f6-4dd0-93ac-5c4cd1c19671
 
+output 3a
+StringHandlingDemo o/p : https://github.com/user-attachments/assets/a5844285-88a8-4b16-81e4-7ae08c5915c7
