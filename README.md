@@ -58,6 +58,8 @@ ImageButtonExample o/p : https://github.com/user-attachments/assets/d8e3532e-123
 output 5a
 JListExample o/p : https://github.com/user-attachments/assets/48a3be22-fb21-424e-aeb9-34f9a2f5ac95
 
+output 5b
+TabbedPaneExample o/p : https://github.com/user-attachments/assets/0b958b62-33f2-4a81-a05f-58937afddd3b
 
 
 
