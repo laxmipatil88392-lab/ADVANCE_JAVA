@@ -4,6 +4,7 @@
 //Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 //String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
 //startsWith() and endsWith()age stringfunction;
+package stringfunction;
 import java.util.*;
 
 public class StringHandlingDemo {
