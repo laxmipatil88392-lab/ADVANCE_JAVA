@@ -61,6 +61,8 @@ JListExample o/p : https://github.com/user-attachments/assets/48a3be22-fb21-424e
 output 5b
 TabbedPaneExample o/p : https://github.com/user-attachments/assets/0b958b62-33f2-4a81-a05f-58937afddd3b
 
+output 5c
+JListCapitalExample o/p : https://github.com/user-attachments/assets/fb40f344-de7e-477c-a943-9ae77210eac3
 
 
 
