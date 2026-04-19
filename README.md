@@ -16,4 +16,8 @@ ColorSubListDemo o/p : https://github.com/user-attachments/assets/261fd6c3-948d-
 output 1e
 RemoveNthElement o/p : https://github.com/user-attachments/assets/7548b806-1c65-41e1-9361-f0e637d3bd5d
 
+output 1f
+IterateFromPosition o/p : https://github.com/user-attachments/assets/67d06438-4252-4541-a1d4-85912a62de8f
+
+
 
