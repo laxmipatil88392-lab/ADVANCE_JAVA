@@ -1,3 +1,5 @@
+//Lab 11a. Read all the existing records from the table coffee which is from the database test and insert a
+//new coffee product into it
 package com.mysql;
 import java.sql.*;
 import java.util.Properties;
@@ -13,7 +15,7 @@ try {
 String url = "jdbc:mysql://localhost:3306/test";   // ✅ added port
 Properties info = new Properties();
 info.put("user", "root");
-info.put("password", "Laxmi@2006");
+info.put("password", "");
 
 // ✅ load driver (important)
 Class.forName("com.mysql.cj.jdbc.Driver");
