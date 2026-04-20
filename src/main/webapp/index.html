@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cookie Login</title>
+</head>
+<body>
+
+<h2 style="color:red;">Enter Your Name</h2>
+
+<form action="CookieServlet" method="get">
+    Name: <input type="text" name="userName">
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
