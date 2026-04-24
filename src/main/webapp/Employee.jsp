@@ -13,7 +13,7 @@ ResultSet rs;
 
 try {
 Class.forName("com.mysql.cj.jdbc.Driver");
-con = DriverManager.getConnection("jdbc:mysql://localhost:3306/Employee","root","Laxmi@2006");
+con = DriverManager.getConnection("jdbc:mysql://localhost:3306/Employee","root","");
 
 // Insert record
 String query = "INSERT INTO Emp VALUES (?,?,?)";
